@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on Web Dev</title>
+    <link>https://example.org/tags/markdown/</link>
+    <description>Recent content in markdown on Web Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Tic-Tac-Toe Game</title>
+      <link>https://example.org/post/markdown-syntax/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.org/post/markdown-syntax/</guid>
+      <description>🚀 Explore the React Tic-Tac-Toe Game! 🎮 Built with ❤️ to enhance React TypeScript skills. Engage in this classic game, showcasing the power of React components and TypeScript magic. Check it out on GitHub Pages to experience the fun! 💻 View the source code on GitHub. #React #TypeScript #GameDev</description>
+    </item>
+  </channel>
+</rss>
