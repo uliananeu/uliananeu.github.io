@@ -1,7 +1,7 @@
 +++
 author = "Uliana"
 comments = false 
-title = "React Tic-Tac-Toe Game"
+title = "Tic-Tac-Toe Game"
 date = "2023-11-26"
 description = "React Tic-Tac-Toe Game"
 tags = [
