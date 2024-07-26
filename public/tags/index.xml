@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Web Dev</title>
-    <link>http://localhost:51310/tags/</link>
+    <link>https://uliananeu.github.io/tags/</link>
     <description>Recent content in Tags on Web Dev</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:51310/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://uliananeu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>React</title>
-      <link>http://localhost:51310/tags/react/</link>
+      <title>JavaScript</title>
+      <link>https://uliananeu.github.io/tags/javascript/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51310/tags/react/</guid>
+      <guid>https://uliananeu.github.io/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
-      <title>TypeScript</title>
-      <link>http://localhost:51310/tags/typescript/</link>
+      <title>React</title>
+      <link>https://uliananeu.github.io/tags/react/</link>
       <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51310/tags/typescript/</guid>
+      <guid>https://uliananeu.github.io/tags/react/</guid>
       <description></description>
     </item>
     <item>
       <title>Game</title>
-      <link>http://localhost:51310/tags/game/</link>
+      <link>https://uliananeu.github.io/tags/game/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51310/tags/game/</guid>
+      <guid>https://uliananeu.github.io/tags/game/</guid>
       <description></description>
     </item>
     <item>
-      <title>JavaScript</title>
-      <link>http://localhost:51310/tags/javascript/</link>
+      <title>TypeScript</title>
+      <link>https://uliananeu.github.io/tags/typescript/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:51310/tags/javascript/</guid>
+      <guid>https://uliananeu.github.io/tags/typescript/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:51310/</loc>
+    <loc>https://uliananeu.github.io/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/categories/</loc>
+    <loc>https://uliananeu.github.io/categories/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/post/react-markdown-supported-note/</loc>
+    <loc>https://uliananeu.github.io/post/react-coffee-haven-website/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/post/</loc>
+    <loc>https://uliananeu.github.io/tags/javascript/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/tags/react/</loc>
+    <loc>https://uliananeu.github.io/post/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/categories/syntax/</loc>
+    <loc>https://uliananeu.github.io/tags/react/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/tags/</loc>
+    <loc>https://uliananeu.github.io/categories/syntax/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/categories/themes/</loc>
+    <loc>https://uliananeu.github.io/tags/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/tags/typescript/</loc>
+    <loc>https://uliananeu.github.io/categories/themes/</loc>
     <lastmod>2024-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/post/react-coffee-haven-website/</loc>
+    <loc>https://uliananeu.github.io/tags/game/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/tags/game/</loc>
+    <loc>https://uliananeu.github.io/post/react-markdown-supported-note/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/tags/javascript/</loc>
+    <loc>https://uliananeu.github.io/post/react-tic-tac-toe/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/post/react-tic-tac-toe/</loc>
+    <loc>https://uliananeu.github.io/post/react-todo-list/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/post/react-todo-list/</loc>
+    <loc>https://uliananeu.github.io/tags/typescript/</loc>
     <lastmod>2023-11-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:51310/archives/</loc>
+    <loc>https://uliananeu.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

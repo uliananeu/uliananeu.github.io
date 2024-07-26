@@ -1,7 +1,7 @@
 +++
 author = "Uliana"
 comments = false 
-title = "ToDo list"
+title = "ToDo List"
 date = "2023-11-26"
 description = "React ToDo list"
 tags = [
