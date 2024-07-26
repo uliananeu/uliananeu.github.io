@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on Web Dev</title>
-    <link>https://uliananeu.github.io/categories/syntax/</link>
-    <description>Recent content in syntax on Web Dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Syntax on Web Dev</title>
+    <link>http://localhost:51310/categories/syntax/</link>
+    <description>Recent content in Syntax on Web Dev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://uliananeu.github.io/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 26 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51310/categories/syntax/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>React Note Taking</title>
-      <link>https://uliananeu.github.io/post/react-markdown-supported-note/</link>
-      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://uliananeu.github.io/post/react-markdown-supported-note/</guid>
+      <title>Notes</title>
+      <link>http://localhost:51310/post/react-markdown-supported-note/</link>
+      <pubDate>Fri, 26 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51310/post/react-markdown-supported-note/</guid>
       <description>🚀 Explore the React Note-Taking with Categories App! Meticulously crafted with ❤️, this React and TypeScript-powered app enhances note-keeping by seamlessly organizing them into categories. Experience efficient note management live on GitHub Pages Witness firsthand how React and TypeScript harmonize to create a fluid and organized note-taking experience! 💻 Explore and contribute to the project on source code on GitHub. o uncover the potential of React, TypeScript, and sophisticated note categorization.</description>
     </item>
     <item>
-      <title>React Tic-Tac-Toe Game</title>
-      <link>https://uliananeu.github.io/post/react-tic-tac-toe/</link>
+      <title>Coffee Haven Website</title>
+      <link>http://localhost:51310/post/react-coffee-haven-website/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://uliananeu.github.io/post/react-tic-tac-toe/</guid>
+      <guid>http://localhost:51310/post/react-coffee-haven-website/</guid>
+      <description>☕ Welcome to Coffee Heaven! Built with care using React and JavaScript, Coffee Heaven is the perfect place to find great coffee. Browse through our selection of coffee beans, explore nice design, and add products to your cart or to favorites. Check out the site live on GitHub Pages. See how React and JavaScript work together to make your coffee shopping experience smooth and enjoyable!&#xA;#React #JavaScript #WebDev</description>
+    </item>
+    <item>
+      <title>Tic-Tac-Toe Game</title>
+      <link>http://localhost:51310/post/react-tic-tac-toe/</link>
+      <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51310/post/react-tic-tac-toe/</guid>
       <description>🚀 Explore the React Tic-Tac-Toe Game! 🎮 Built with ❤️ to enhance React TypeScript skills. Engage in this classic game, showcasing the power of React components and TypeScript magic. Check it out on GitHub Pages to experience the fun! 💻 View the source code on GitHub. #React #TypeScript #GameDev</description>
     </item>
     <item>
-      <title>React ToDo list</title>
-      <link>https://uliananeu.github.io/post/react-todo-list/</link>
+      <title>ToDo list</title>
+      <link>http://localhost:51310/post/react-todo-list/</link>
       <pubDate>Sun, 26 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://uliananeu.github.io/post/react-todo-list/</guid>
+      <guid>http://localhost:51310/post/react-todo-list/</guid>
       <description>🚀 Dive into the React Todo List App! 📝 Crafted with ❤️ to boost your React and TypeScript expertise. Manage tasks effortlessly with this intuitive Todo List, showcasing the synergy of React components and the precision of TypeScript. Explore it live on GitHub Pages for a seamless task management experience! 💻 Discover the source code on GitHub. #React #TypeScript #TaskManagement #WebDev</description>
     </item>
   </channel>
